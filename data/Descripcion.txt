@@ -1,0 +1,1 @@
+En la carpeta actual, se encuentran los archivos relacionados a los datos manejados e involucrados en el proyecto. Tenemos a la data original ("near-protocol_2020-05-11_2025-05-10.csv") y a la data luego del preprocesamiento ("data_preprocesed.csv").
