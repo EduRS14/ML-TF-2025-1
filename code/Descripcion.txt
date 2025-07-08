@@ -1,0 +1,1 @@
+En la presente carpeta se encuentran los archivos relacionados al código del programa realizado para el proyecto. Estos son: el notebook general con todo el código ("ML_TF.ipynb"), el scaler ("scaler.pkl") y el modelo usado ("rf_model.pkl").
